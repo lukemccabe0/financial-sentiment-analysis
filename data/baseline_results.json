@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Apple reports record revenue and beats estimates by 12%",
+    "sentiment": "positive",
+    "confidence": 95
+  },
+  {
+    "text": "Tesla misses delivery targets for third consecutive quarter",
+    "sentiment": "negative",
+    "confidence": 95
+  },
+  {
+    "text": "Federal Reserve signals potential rate cut in 2026",
+    "sentiment": "neutral",
+    "confidence": 95
+  },
+  {
+    "text": "NVIDIA shares soar after blockbuster AI chip demand",
+    "sentiment": "positive",
+    "confidence": 95
+  },
+  {
+    "text": "Bank of America announces 2,000 job cuts amid restructuring",
+    "sentiment": "negative",
+    "confidence": 95
+  }
+]
