@@ -1,0 +1,6 @@
+{
+  "name": "Financial Sentiment FYP",
+  "build": { "dockerfile": "../Dockerfile" },
+  "runArgs": ["--gpus", "all"],
+  "postCreateCommand": "echo Container ready"
+}
